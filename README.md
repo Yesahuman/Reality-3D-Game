@@ -46,5 +46,5 @@ I hope to fix this in the future and improve it.
 ---
 
 ## Credits
-https://drive.google.com/file/d/1vw5qDUIiYdtDMshPwmTuDIlALfSuUCql/view?usp=drive_link
+[View the PDF here](https://shorturl.at/nDS5G)
 
